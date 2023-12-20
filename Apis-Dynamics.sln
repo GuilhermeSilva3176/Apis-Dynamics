@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apis-Dynamics", "Apis-Dynamics\Apis-Dynamics.csproj", "{CAA88860-EB8E-4218-816C-7EE61ED6717B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA88860-EB8E-4218-816C-7EE61ED6717B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA88860-EB8E-4218-816C-7EE61ED6717B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA88860-EB8E-4218-816C-7EE61ED6717B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA88860-EB8E-4218-816C-7EE61ED6717B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAF9224-BD9B-4C42-9436-0DF290EEDC43}
+	EndGlobalSection
+EndGlobal
